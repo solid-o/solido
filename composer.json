@@ -14,16 +14,18 @@
         }
     ],
     "require": {
-        "solido/body-converter": "^0.2",
-        "solido/common": "^0.2",
-        "solido/cors": "^0.2",
-        "solido/data-transformers": "^0.2",
-        "solido/dto-management": "^0.2",
-        "solido/pagination": "^0.2",
-        "solido/patch-manager": "^0.2",
-        "solido/query-language": "^0.2",
-        "solido/security-policy-checker": "^0.2",
-        "solido/serialization": "^0.2",
-        "solido/versioning": "^0.2"
+        "solido/api-problem": "^0.3",
+        "solido/body-converter": "^0.3",
+        "solido/common": "^0.3",
+        "solido/cors": "^0.3",
+        "solido/data-mapper": "^0.3",
+        "solido/data-transformers": "^0.3",
+        "solido/dto-management": "^0.3",
+        "solido/pagination": "^0.3",
+        "solido/patch-manager": "^0.3",
+        "solido/query-language": "^0.3",
+        "solido/security-policy-checker": "^0.3",
+        "solido/serialization": "^0.3",
+        "solido/versioning": "^0.3"
     }
 }
