@@ -14,18 +14,24 @@
         }
     ],
     "require": {
-        "solido/api-problem": "^0.4",
-        "solido/body-converter": "^0.4",
-        "solido/common": "^0.4",
-        "solido/cors": "^0.4",
-        "solido/data-mapper": "^0.4",
-        "solido/data-transformers": "^0.4",
-        "solido/dto-management": "^0.4",
-        "solido/pagination": "^0.4",
-        "solido/patch-manager": "^0.4",
-        "solido/query-language": "^0.4",
-        "solido/security-policy-checker": "^0.4",
-        "solido/serialization": "^0.4",
-        "solido/versioning": "^0.4"
+        "php": "^8.4",
+        "solido/api-problem": "^0.4 || ^0.5",
+        "solido/body-converter": "^0.4 || ^0.5",
+        "solido/common": "^0.4 || ^0.5",
+        "solido/cors": "^0.4 || ^0.5",
+        "solido/data-mapper": "^0.4 || ^0.5",
+        "solido/data-transformers": "^0.4 || ^0.5",
+        "solido/dto-management": "^0.4 || ^0.5",
+        "solido/pagination": "^0.4 || ^0.5",
+        "solido/patch-manager": "^0.4 || ^0.5",
+        "solido/query-language": "^0.4 || ^0.5",
+        "solido/security-policy-checker": "^0.4 || ^0.5",
+        "solido/serialization": "^0.4 || ^0.5",
+        "solido/versioning": "^0.4 || ^0.5"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.5.x-dev"
+        }
     }
 }
